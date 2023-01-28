@@ -4,7 +4,7 @@ W23_CSFS1000_final_project
 
 We are custom tailors. Customers bring their clothes or material or select their material; we take their measurements, and we make their choice of clothes. We specialize in the clothing needs of the Parsi community. 
 
-Figma Link: https://www.figma.com/file/sl7pm9HQcDJeRRpOAoIw6p/W23_csfs1000?node-id=0%3A1&t=AV7dnVnn69bg5uXx-0
+**Figma Link:** https://www.figma.com/file/sl7pm9HQcDJeRRpOAoIw6p/W23_csfs1000?node-id=0%3A1&t=AV7dnVnn69bg5uXx-0
 
 ## User Stories
 
